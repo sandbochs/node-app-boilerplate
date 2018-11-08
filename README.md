@@ -1,7 +1,15 @@
-# node-engine-proxy-fetcher
-A node service that talks to engine proxy
+# node-app-boilerplate
 
-## Current Use Cases
-- Scheduled fetching of trading stats data for auto-ban processing
+Boilerplate for a node app.
 
-## Local Development
+## Includes
+- babel
+- eslint
+- prettier
+- flow
+- mocha
+
+## Getting Started
+`npm install`
+
+`npm run flow-defs`
